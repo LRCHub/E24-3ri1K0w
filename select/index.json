@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "人類！WE ARE ONENESS！",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-03-02T13:54:21.615644Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人類!WE ARE ONENESS!",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_人類!WE_ARE_ONENESS!_FES☆TIVE.txt"
+    }
+  ]
+}
